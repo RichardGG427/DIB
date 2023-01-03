@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "data": {
+    "big_classify": [
+      { "name": "Car", "iconsrc": "images/car.png" },
+      { "name": "Truck", "iconsrc": "images/truck.png" },
+      { "name": "Bus", "iconsrc": "images/bus.png" },
+      {
+        "name": "Motorcycle",
+        "iconsrc": "images/motorcycle.png"
+      }
+    ],
+    "small_classify": [
+      { "name": "Starting", "iconsrc": "images/starting.png" },
+      { "name": "Parking", "iconsrc": "images/parking.png" },
+      {
+        "name": "Reversing",
+        "iconsrc": "images/reversing.png"
+      },
+      { "name": "Shifting", "iconsrc": "images/shifting.png" },
+      {
+        "name": "Adjusting",
+        "iconsrc": "images/adjusting.png"
+      },
+      { "name": "Signals", "iconsrc": "images/signals.png" },
+      { "name": "Special", "iconsrc": "images/special.png" },
+      {
+        "name": "Overtaking",
+        "iconsrc": "images/overtaking.png"
+      },
+      { "name": "Defensive", "iconsrc": "images/defense.png" },
+      { "name": "All", "iconsrc": "images/all.png" }
+    ],
+    "content_nav_list": [
+      {
+        "tab": "Coupons",
+        "data": [
+          {
+            "pic": "images/overtaking.jpeg",
+            "title": "Overtaking",
+            "sales": "900",
+            "price": "$290",
+            "label": ["New", "Hot"]
+          },
+          {
+            "pic": "images/shifting.jpeg",
+            "title": "Shifting",
+            "sales": "888",
+            "price": "$120",
+            "label": ["New", "Hot"]
+          },
+          {
+            "pic": "images/reversing.webp",
+            "title": "Reversing",
+            "sales": "258",
+            "price": "$100",
+            "label": ["New"]
+          },
+          {
+            "pic": "images/parking.jpeg",
+            "title": "Parking",
+            "sales": "555",
+            "price": "$150",
+            "label": ["New"]
+          }
+        ]
+      },
+      {
+        "tab": "Sales",
+        "data": [
+          {
+            "pic": "images/parking.jpeg",
+            "title": "Parking",
+            "sales": "198",
+            "price": "$300",
+            "label": ["New", "Hot"]
+          }
+        ]
+      },
+      {
+        "tab": "Hot",
+        "data": [
+          {
+            "pic": "images/defensive.jpeg",
+            "title": "Defensive Driving",
+            "sales": "1111",
+            "price": "$300",
+            "label": ["New", "Hot"]
+          },
+          {
+            "pic": "images/night.jpeg",
+            "title": "Driving at night",
+            "sales": "888",
+            "price": "$20",
+            "label": ["New", "Hot"]
+          }
+        ]
+      },
+      {
+        "tab": "VIP",
+        "data": [
+          {
+            "pic": "images/parking.jpeg",
+            "title": "Parking",
+            "sales": "198",
+            "price": "$300",
+            "label": ["New", "Hot"]
+          },
+          {
+            "pic": "images/shifting.jpeg",
+            "title": "Shifting",
+            "sales": "888",
+            "price": "$120",
+            "label": ["New", "Hot"]
+          }
+        ]
+      }
+    ]
+  }
+}
